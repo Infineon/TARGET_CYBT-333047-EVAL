@@ -2,7 +2,7 @@
 
 ### Overview
 
-The Infineon AIROC&#8482; CYW20706 Bluetooth&#174; and Bluetooth&#174; LE module evaluation kit (CYBT-333047-EVAL) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20706, a low-power Bluetooth&#174; and Bluetooth&#174; LE system on a chip.
+The Infineon AIROC&#8482; CYW20706 Bluetooth&#174; and Bluetooth&#174; LE module evaluation kit (CYBT-333047-EVAL) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20706, a low-power Bluetooth&#174; and Bluetooth&#174; LE system on chip.
 
 The AIROC&#8482; CYW20706 Bluetooth&#174; and Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; connectivity, along with compute capability integrating an Arm&#174; Cortex&#174;-M3 processor. This evaluation kit (CYBT-333047-EVAL) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; Module hosting the AIROC&#8482; CYW20706 that is globally certified and has uFL connector for external antenna designed for reducing time-to-market.
 
@@ -41,4 +41,4 @@ Arduino compatible shields can be connected through the Arduino compatible heade
 
 Max UART baud rate is 1M. Use baud rate of 115200 for Client Control.
 
-For more information, see [CYBT-333047-EVAL](http://www.cypress.com/CYBT-333047-EVAL)
+For more information, see [CYBT-333047-EVAL](https://www.infineon.com/cms/en/product/evaluation-boards/cybt-333047-eval/)
